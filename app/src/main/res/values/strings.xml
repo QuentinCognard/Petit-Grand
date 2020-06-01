@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Petit-Grand</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="plus_grand">Plus grand</string>
+    <string name="egal">Egal</string>
+    <string name="moins_grand">Moins grand</string>
+</resources>
